@@ -1,4 +1,4 @@
 function main(){
 // Print Hello World to console
-  console.log("Hello, World");
+  //this row of code adds the following text "Hello World" onto the console.
 }
